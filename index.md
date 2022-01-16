@@ -1,7 +1,11 @@
 Hello, and welcome to the wiki. Here I will publish everything I know.
 ## Links
-[Python](/wiki/python)
-[Java](/wiki/java)
-[Bash](/bash)
-[RPi](/wiki/rpi)
-[GH-Pages](/wiki/gh-pages)
+### In the works
+- [Bash course](/wiki/bash)
+- [Python course](/wiki/python)
+
+### Coming soon
+- Raspberry Pi
+- Github Pages
+- Wordpress hosting with InfinityFree
+
